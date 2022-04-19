@@ -27,7 +27,6 @@ li a {
 	grid-template-columns: 2fr 4fr;
 }
 .left {
-    font-family: serif;
 	position: initial;
 	/* background-color: rgb(126, 219, 231); */
     background-color: rgb(23, 46, 58);
