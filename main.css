@@ -63,7 +63,7 @@ p {
     white-space: nowrap;
     overflow: hidden;
     animation: typewriter 3.5s steps(20) infinite alternate,
-    blink 900ms steps(10) infinite normal;
+/*     blink 900ms steps(10) infinite normal; */
     border-right: 5px solid white;
     justify-content: center;
     align-items: center;
@@ -77,11 +77,11 @@ p {
       width: 100%;
     }
   }
-  @keyframes blink {
+/*   @keyframes blink {
     from {
       border-color: white;
     }
     to {
       border-color: transparent;
     }
-  }
+  } */
