@@ -1,0 +1,50 @@
+body{
+    background-color: #08081a;
+    color: white;
+    }
+nav {
+    margin:0px 0px;
+    border: 0px 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;    
+}
+a {
+    font-weight: 700;
+}
+
+
+li {
+    float:  left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 17px;
+    text-decoration: none;
+    font-size: 20;
+}
+
+li a.name{
+    font-size: 20px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-right: 18px;
+    padding-left: 850px;
+}
+
+a:link {
+    color: white;
+    }
+    /* visited link */
+    
+    /* mouse over link */
+a:hover {
+    color: #283664;
+
+}
